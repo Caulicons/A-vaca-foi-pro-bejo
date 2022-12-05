@@ -1,5 +1,6 @@
 # A vaca foi pro brejo
 
+![Project preview](./preview.gif)
 É sempre bom da uma revisada boa em lógica de programação e esse processo fica melhor na criação de jogos 🎮.
 
 Com a plataforma da Alura junto com o orientado Guilherme Lima refiz o jogo "Freeway” da activision.
